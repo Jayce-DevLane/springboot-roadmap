@@ -1,9 +1,8 @@
 package io.ensueno.repository;
 
-import io.ensueno.Entity.Member;
+import io.ensueno.domain.Member;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
-import org.junit.jupiter.api.DisplayName;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

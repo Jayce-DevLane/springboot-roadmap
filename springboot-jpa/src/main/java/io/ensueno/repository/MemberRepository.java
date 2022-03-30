@@ -1,6 +1,6 @@
 package io.ensueno.repository;
 
-import io.ensueno.Entity.Member;
+import io.ensueno.domain.Member;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;
